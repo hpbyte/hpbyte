@@ -15,6 +15,8 @@
 
 - 🌱 I’m currently learning **Rust, System Design**
 
+- 🏎️ A die-hard fan of F1 and One-piece
+
 - 📝 I regularly write articles on [devnote.blog](https://devnote.blog)
 
 &nbsp;
