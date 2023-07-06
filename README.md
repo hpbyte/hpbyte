@@ -17,7 +17,7 @@
 
 - 🏎️ A die-hard fan of F1 and One-piece
 
-- 📝 I regularly write articles on [devnote.blog](https://devnote.blog)
+- 📝 I regularly write articles on [htoo.dev](https://htoo.dev/blog)
 
 &nbsp;
 &nbsp;
