@@ -53,8 +53,4 @@
 &nbsp;
 &nbsp;
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=hpbyte&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
