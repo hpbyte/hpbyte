@@ -25,10 +25,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Organizing your dotfiles — managing secrets](https://htoopyaelwin.medium.com/organizing-your-dotfiles-managing-secrets-8fd33f06f9bf?source=rss-6ed50f18d7c------2)
 - [I drew my cat’s portrait using Desmos Graphing Calculator](https://htoopyaelwin.medium.com/i-drew-my-cats-portrait-using-desmos-graphing-calculator-b4efd207fd8f?source=rss-6ed50f18d7c------2)
 - [Software Development Technologies I’m Learning in 2023](https://htoopyaelwin.medium.com/software-development-technologies-im-learning-in-2023-9ba5feb75f70?source=rss-6ed50f18d7c------2)
 - [Why I’m learning Rust &lpar;as a JavaScript dev&rpar;](https://htoopyaelwin.medium.com/why-im-learning-rust-as-a-javascript-dev-4b9857cf28c1?source=rss-6ed50f18d7c------2)
-- [Setting up Automatic Code Linting and Formatting in a NextJS Project](https://htoopyaelwin.medium.com/setting-up-automatic-code-linting-and-formatting-in-a-nextjs-project-28e3213a7c9d?source=rss-6ed50f18d7c------2)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;
