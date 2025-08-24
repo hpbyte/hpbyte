@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/hplwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hplwin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hplwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hplwin" height="30" width="40" /></a>
-<a href="https://instagram.com/htoo_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hp_lwin" height="30" width="40" /></a>
+<a href="https://instagram.com/hpbyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hp_lwin" height="30" width="40" /></a>
 <a href="https://medium.com/@htoopyaelwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@htoopyaelwin" height="30" width="40" /></a>
 </p>
 
