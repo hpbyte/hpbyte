@@ -1,22 +1,38 @@
 <h1 align="center">I'm Htoo (/tuː/)</h1>
 
-<br/>
+<h3 align="center"><a href="https://htoo.dev/" target="blank">htoo.dev</a></h3>
 
-- 🇲🇲 From **Myanmar**, currently based in **Bangkok, Thailand** 🇹🇭
-- More info on [htoo.dev](https://htoo.dev/)
+[![Work Persona GitHub](https://img.shields.io/badge/Work-hplwin-181717?style=for-the-badge&logo=github)](https://github.com/hplwin)
 
+<img align="right" src="https://github.com/user-attachments/assets/e054d744-f705-46a2-9a48-d6c3503c38e7" width="300"/>
 
-<br/>
+💼 [Taskworld](https://taskworld.com) [Oriona.Ai](https://oriona.ai/)
+
+📍 Based in **Bangkok, Thailand** 🇹🇭 Originally from **Myanmar** 🇲🇲 
+
+I like solving complex problems and building things that actually get used. Lately, I've been building a platform for intelligent, reliable AI Agents and Workflows that help enterprise corporations with their data-driven decision-making processes.
+
+When away from the screen, I'm usually recharging in nature 🌳 or getting humbled in bouldering 🧗🏻.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://x.com/h7_0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="h7_0_0" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/hplwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hplwin" height="30" width="40" /></a>
-  <a href="https://instagram.com/h7_o_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h7_o_o" height="30" width="40" /></a>
-  <a href="https://medium.com/@htoopyaelwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@htoopyaelwin" height="30" width="40" /></a>
+  <a href="https://x.com/h7_0_0" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x.com/h7_0_0" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/hplwin" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/hplwin" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/h7_o_o" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/h7_o_o" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@htoopyaelwin" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium.com/@htoopyaelwin" height="30" width="40" />
+  </a>
 </p>
 
 <br/>
+
 
 ---
 
